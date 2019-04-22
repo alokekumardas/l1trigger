@@ -10,7 +10,8 @@ You can find useful information, like how to customise seeds, how to make menuli
 cmsrel CMSSW_9_2_15
 cd CMSSW_9_2_15/src
 cmsenv
-git clone --branch hui https://github.com/cms-l1-dpg/L1Menu.git  L1TriggerDPG/L1Menu
+git clone https://github.com/alokekumardas/l1trigger.git  
+cd l1trigger/L1Menu
 make -j 8
 </code></pre>
 
