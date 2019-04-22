@@ -1,0 +1,346 @@
+Main tree is found at l1UpgradeTree/L1UpgradeTree
+L1TreeUpgradeTree w BitwiseLayer1 not found .... 
+L1CaloTower tree not found .... 
+L1uGTTree tree is found at l1uGTTree/L1uGTTree
+EventTree is found ...
+RecoJet not found, it will be skipped...
+RecoMet not found, it will be skipped...
+RecoEle not found, it will be skipped...
+RecoMuon not found, it will be skipped...
+RecoTau not found, it will be skipped...
+RecoFilter not found, it will be skipped...
+recoVertex not found, it will be skipped...
+MuonRecoTree not found, it will be skipped...
+L1ExtraTree not found, it will be skipped...
+L1EmuExtraTree not found, it will be skipped...
+L1MenuTree not found, it will be skipped...
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_1.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_10.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_11.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_12.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_13.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_14.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_15.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_16.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_17.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_18.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_19.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_2.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_20.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_21.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_22.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_23.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_24.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_25.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_26.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_27.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_28.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_29.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_3.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_30.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_31.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_32.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_33.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_34.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_35.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_36.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_37.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_38.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_39.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_4.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_40.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_41.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_42.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_43.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_44.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_45.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_46.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_47.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_48.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_49.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_5.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_50.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_51.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_52.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_53.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_54.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_55.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_56.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_57.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_58.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_59.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_6.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_60.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_61.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_62.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_63.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_64.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_65.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_66.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_67.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_68.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_69.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_7.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_70.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_71.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_72.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_73.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_74.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_75.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_76.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_77.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_78.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_79.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_8.root
+ -- Adding root://eoscms.cern.ch//eos/cms/store/group/dpg_trigger/comm_trigger/L1Trigger/TEAshiftNtuples/aloke/NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1/L1Accept/crab_NanoDST2018D-week44-l1t-integration-v101p0-CMSSW-10_2_1__323940_L1Accept_Run2018D-v1/190325_185214/0000/L1Ntuple_9.root
+Going to init the available trees...
+Estimate the number of entries ... 
+Setting branch addresses for L1Upgrade tree...  
+Setting branch addresses for Event tree...
+Setting branch addresses for L1uGT tree...
+Preparing menus __________________________________ 
+Add from Menulib L1_CDC_SingleMu_3_er1p2_TOP120_DPHI2p618_3p142
+Add from Menulib L1_DoubleJet100er2p5
+Add from Menulib L1_DoubleJet120er2p5
+Add from Menulib L1_DoubleJet40er2p5
+Add from Menulib L1_DoubleMu0_SQ
+Add from Menulib L1_DoubleMu0er1p5_SQ_OS
+Add from Menulib L1_DoubleMu4_SQ_OS
+Add from Menulib L1_DoubleMu4p5er2p0_SQ_OS
+Add from Menulib L1_FirstBunchAfterTrain
+Add from Menulib L1_FirstBunchBeforeTrain
+Add from Menulib L1_FirstBunchInTrain
+Add from Menulib L1_FirstCollisionInOrbit
+Add from Menulib L1_FirstCollisionInTrain
+Add from Menulib L1_HTT120er
+Add from Menulib L1_HTT160er
+Add from Menulib L1_HTT200er
+Add from Menulib L1_HTT255er
+Add from Menulib L1_IsolatedBunch
+Add from Menulib L1_LastCollisionInTrain
+Add from Menulib L1_Mu3_Jet120er2p5_dR_Max0p8
+Add from Menulib L1_Mu3_Jet16er2p5_dR_Max0p4
+Add from Menulib L1_Mu3_Jet30er2p5
+Add from Menulib L1_Mu3_Jet35er2p5_dR_Max0p4
+Add from Menulib L1_Mu3_Jet60er2p5_dR_Max0p4
+Add from Menulib L1_Mu3_Jet80er2p5_dR_Max0p4
+Add from Menulib L1_QuadJet36er2p5_IsoTau52er2p1
+Add from Menulib L1_SingleEG10er2p5
+Add from Menulib L1_SingleEG15er2p5
+Add from Menulib L1_SingleEG26er2p5
+Add from Menulib L1_SingleEG28_FWD2p5
+Add from Menulib L1_SingleEG8er2p5
+Add from Menulib L1_SingleJet120
+Add from Menulib L1_SingleJet120_FWD3p0
+Add from Menulib L1_SingleJet35
+Add from Menulib L1_SingleJet35_FWD3p0
+Add from Menulib L1_SingleJet60
+Add from Menulib L1_SingleJet60_FWD3p0
+Add from Menulib L1_SingleJet90
+Add from Menulib L1_SingleJet90_FWD3p0
+Add from Menulib L1_SingleMu15_DQ
+Add from Menulib L1_SingleMu3
+Add from Menulib L1_SingleMu5
+Add from Menulib L1_SingleMu7
+Add from Menulib L1_SingleMuOpen
+Add from Menulib L1_TripleMu_5SQ_3SQ_0OQ
+Add from Menulib L1_ZeroBias
+In total ColumnMap 1
+Printing configuration ___________________________ 
+    BXReweight_first : 1
+      IgnorePrescale : 0
+         SelectEvent : -1
+          SelectFill : -1
+           SelectRun : -1
+       SetL1AcceptPS : 0
+           SetMuonER : -1
+       SetNoPrescale : 0
+            SumJetET : 0
+           SumJetEta : 999
+      UseL1CaloTower : 0
+      UsePFMETNoMuon : 0
+       UseUnpackTree : 1
+      UseUpgradeLyr1 : 0
+      UseuGTDecision : 0
+        doBXReweight : 0
+     doBXReweight128 : 0
+   doBXReweight34567 : 0
+           doCompuGT : 0
+           doPlotEff : 0
+            doPlotLS : 0
+          doPlotRate : 1
+          doPlotTest : 0
+           doPlotuGt : 0
+           doPrintBX : 0
+           doPrintPU : 1
+            doScanLS : 0
+           doTnPMuon : 0
+            maxEvent : 100000
+            nBunches : 2544
+            Lumilist : menu/run_lumi_323940.csv
+            SelectBX : 
+           SelectCol : 
+            SelectLS : 
+Printed configuration ============================ 
+Processed 0 events.
+Processed 1000 events.
+Processed 2000 events.
+Processed 3000 events.
+Processed 4000 events.
+Processed 5000 events.
+Processed 6000 events.
+Processed 7000 events.
+Processed 8000 events.
+Processed 9000 events.
+Processed 10000 events.
+Processed 11000 events.
+Processed 12000 events.
+Processed 13000 events.
+Processed 14000 events.
+Processed 15000 events.
+Processed 16000 events.
+Processed 17000 events.
+Processed 18000 events.
+Processed 19000 events.
+Processed 20000 events.
+Processed 21000 events.
+Processed 22000 events.
+Processed 23000 events.
+Processed 24000 events.
+Processed 25000 events.
+Processed 26000 events.
+Processed 27000 events.
+Processed 28000 events.
+Processed 29000 events.
+Processed 30000 events.
+Processed 31000 events.
+Processed 32000 events.
+Processed 33000 events.
+Processed 34000 events.
+Processed 35000 events.
+Processed 36000 events.
+Processed 37000 events.
+Processed 38000 events.
+Processed 39000 events.
+Processed 40000 events.
+Processed 41000 events.
+Processed 42000 events.
+Processed 43000 events.
+Processed 44000 events.
+Processed 45000 events.
+Processed 46000 events.
+Processed 47000 events.
+Processed 48000 events.
+Processed 49000 events.
+Processed 50000 events.
+Processed 51000 events.
+Processed 52000 events.
+Processed 53000 events.
+Processed 54000 events.
+Processed 55000 events.
+Processed 56000 events.
+Processed 57000 events.
+Processed 58000 events.
+Processed 59000 events.
+Processed 60000 events.
+Processed 61000 events.
+Processed 62000 events.
+Processed 63000 events.
+Processed 64000 events.
+Processed 65000 events.
+Processed 66000 events.
+Processed 67000 events.
+Processed 68000 events.
+Processed 69000 events.
+Processed 70000 events.
+Processed 71000 events.
+Processed 72000 events.
+Processed 73000 events.
+Processed 74000 events.
+Processed 75000 events.
+Processed 76000 events.
+Processed 77000 events.
+Processed 78000 events.
+Processed 79000 events.
+Processed 80000 events.
+Processed 81000 events.
+Processed 82000 events.
+Processed 83000 events.
+Processed 84000 events.
+Processed 85000 events.
+Processed 86000 events.
+Processed 87000 events.
+Processed 88000 events.
+Processed 89000 events.
+Processed 90000 events.
+Processed 91000 events.
+Processed 92000 events.
+Processed 93000 events.
+Processed 94000 events.
+Processed 95000 events.
+Processed 96000 events.
+Processed 97000 events.
+Processed 98000 events.
+Processed 99000 events.
+Processed 100000 events.
+Total Event: 100001 ZeroBias Event: 99090
+Scale by  11246 / nZeroBiasevents * NumberOfBunches, with nZeroBiasevents = 99090 NumberOfBunches = 2544
+==================================== Summary
+
+========================== Column 0 ========================== 
+
+L1Bit     L1SeedName                                      pre-scale rate@13TeV +/- error_rate@13TeV    pure@13TeV     prop@13TeV     Comments
+4         L1_SingleMuOpen                                 63000     0          +/- 0                   0              0              
+9         L1_SingleMu3                                    22000     0          +/- 0                   0              0              
+10        L1_SingleMu5                                    1700      0          +/- 0                   0              0              
+12        L1_SingleMu7                                    200       0          +/- 0                   0              0              
+16        L1_SingleMu15_DQ                                1300      0          +/- 0                   0              0              
+35        L1_DoubleMu0_SQ                                 1500      0          +/- 0                   0              0              
+49        L1_DoubleMu0er1p5_SQ_OS                         450       0          +/- 0                   0              0              
+53        L1_DoubleMu4_SQ_OS                              700       0          +/- 0                   0              0              
+57        L1_DoubleMu4p5er2p0_SQ_OS                       80        0          +/- 0                   0              0              
+65        L1_TripleMu_5SQ_3SQ_0OQ                         35        0          +/- 0                   0              0              
+93        L1_Mu3_Jet30er2p5                               11000     0          +/- 0                   0              0              
+94        L1_Mu3_Jet16er2p5_dR_Max0p4                     400       0          +/- 0                   0              0              
+95        L1_Mu3_Jet35er2p5_dR_Max0p4                     256       0          +/- 0                   0              0              
+96        L1_Mu3_Jet60er2p5_dR_Max0p4                     52        0          +/- 0                   0              0              
+97        L1_Mu3_Jet80er2p5_dR_Max0p4                     13        0          +/- 0                   0              0              
+98        L1_Mu3_Jet120er2p5_dR_Max0p8                    3         0          +/- 0                   0              0              
+116       L1_SingleEG8er2p5                               44000     0          +/- 0                   0              0              
+117       L1_SingleEG10er2p5                              7600      0          +/- 0                   0              0              
+118       L1_SingleEG15er2p5                              1350      0          +/- 0                   0              0              
+119       L1_SingleEG26er2p5                              780       0          +/- 0                   0              0              
+120       L1_SingleEG28_FWD2p5                            45        0          +/- 0                   0              0              
+214       L1_QuadJet36er2p5_IsoTau52er2p1                 190       0          +/- 0                   0              0              
+215       L1_SingleJet35                                  64000     0          +/- 0                   0              0              
+216       L1_SingleJet60                                  17000     0          +/- 0                   0              0              
+217       L1_SingleJet90                                  1500      0          +/- 0                   0              0              
+218       L1_SingleJet120                                 350       0          +/- 0                   0              0              
+228       L1_SingleJet35_FWD3p0                           103000    0          +/- 0                   0              0              
+229       L1_SingleJet60_FWD3p0                           770       0          +/- 0                   0              0              
+230       L1_SingleJet90_FWD3p0                           250       0          +/- 0                   0              0              
+231       L1_SingleJet120_FWD3p0                          40        0          +/- 0                   0              0              
+238       L1_DoubleJet40er2p5                             8400      0          +/- 0                   0              0              
+239       L1_DoubleJet100er2p5                            170       0          +/- 0                   0              0              
+240       L1_DoubleJet120er2p5                            70        0          +/- 0                   0              0              
+270       L1_HTT120er                                     11400     0          +/- 0                   0              0              
+271       L1_HTT160er                                     4100      0          +/- 0                   0              0              
+272       L1_HTT200er                                     1600      0          +/- 0                   0              0              
+273       L1_HTT255er                                     500       0          +/- 0                   0              0              
+298       L1_ZeroBias                                     17881     0          +/- 0                   0              0              
+308       L1_IsolatedBunch                                110       0          +/- 0                   0              0              
+309       L1_FirstBunchBeforeTrain                        269167    0          +/- 0                   0              0              
+310       L1_FirstBunchInTrain                            269167    0          +/- 0                   0              0              
+314       L1_FirstBunchAfterTrain                         269167    0          +/- 0                   0              0              
+315       L1_LastCollisionInTrain                         269167    0          +/- 0                   0              0              
+316       L1_FirstCollisionInTrain                        269167    0          +/- 0                   0              0              
+317       L1_FirstCollisionInOrbit                        1103      0          +/- 0                   0              0              
+329       L1_CDC_SingleMu_3_er1p2_TOP120_DPHI2p618_3p142  6         0          +/- 0                   0              0              
+
+Total rate  = 0 +/- 0 (kHz)
+
+Total rate (with overlaps) = 0 (kHz)
+
+Total pure rate  = 0 (kHz)
+
+Total prop rate  = 0 (kHz)

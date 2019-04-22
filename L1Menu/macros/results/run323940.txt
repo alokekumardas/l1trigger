@@ -1,0 +1,109 @@
+---------------------------- Input Menu -------------------------
+L1Bit	L1SeedName	PS
+4	L1_SingleMuOpen	63000
+9	L1_SingleMu3	22000
+10	L1_SingleMu5	1700
+12	L1_SingleMu7	200
+16	L1_SingleMu15_DQ	1300
+35	L1_DoubleMu0_SQ	1500
+49	L1_DoubleMu0er1p5_SQ_OS	450
+53	L1_DoubleMu4_SQ_OS	700
+57	L1_DoubleMu4p5er2p0_SQ_OS	80
+65	L1_TripleMu_5SQ_3SQ_0OQ	35
+93	L1_Mu3_Jet30er2p5	11000
+94	L1_Mu3_Jet16er2p5_dR_Max0p4	400
+95	L1_Mu3_Jet35er2p5_dR_Max0p4	256
+96	L1_Mu3_Jet60er2p5_dR_Max0p4	52
+97	L1_Mu3_Jet80er2p5_dR_Max0p4	13
+98	L1_Mu3_Jet120er2p5_dR_Max0p8	3
+116	L1_SingleEG8er2p5	44000
+117	L1_SingleEG10er2p5	7600
+118	L1_SingleEG15er2p5	1350
+119	L1_SingleEG26er2p5	780
+120	L1_SingleEG28_FWD2p5	45
+214	L1_QuadJet36er2p5_IsoTau52er2p1	190
+215	L1_SingleJet35	64000
+216	L1_SingleJet60	17000
+217	L1_SingleJet90	1500
+218	L1_SingleJet120	350
+228	L1_SingleJet35_FWD3p0	103000
+229	L1_SingleJet60_FWD3p0	770
+230	L1_SingleJet90_FWD3p0	250
+231	L1_SingleJet120_FWD3p0	40
+238	L1_DoubleJet40er2p5	8400
+239	L1_DoubleJet100er2p5	170
+240	L1_DoubleJet120er2p5	70
+270	L1_HTT120er	11400
+271	L1_HTT160er	4100
+272	L1_HTT200er	1600
+273	L1_HTT255er	500
+298	L1_ZeroBias	17881
+308	L1_IsolatedBunch	110
+309	L1_FirstBunchBeforeTrain	269167
+310	L1_FirstBunchInTrain	269167
+314	L1_FirstBunchAfterTrain	269167
+315	L1_LastCollisionInTrain	269167
+316	L1_FirstCollisionInTrain	269167
+317	L1_FirstCollisionInOrbit	1103
+329	L1_CDC_SingleMu_3_er1p2_TOP120_DPHI2p618_3p142	6
+---------------------------- Input Menu -------------------------
+
+
+========================== Column 0 ========================== 
+
+L1Bit     L1SeedNamepre-scale rate@13TeV +/- error_rate@13TeV    pure@13TeV     prop@13TeV     Comments
+-46       L1Bit  32616     0          +/- 0                   0              0              
+-34       4      32616     0          +/- 0                   0              0              
+-39       9      32616     0          +/- 0                   0              0              
+0         10     32616     0          +/- 0                   0              0              
+-5        12     32616     0          +/- 0                   0              0              
+-7        16     32616     0          +/- 0                   0              0              
+-33       35     32616     0          +/- 0                   0              0              
+-35       49     32616     0          +/- 0                   0              0              
+-36       53     32616     0          +/- 0                   0              0              
+-37       57     32616     0          +/- 0                   0              0              
+-38       65     32616     0          +/- 0                   0              0              
+-40       93     32616     0          +/- 0                   0              0              
+-41       94     32616     0          +/- 0                   0              0              
+-42       95     32616     0          +/- 0                   0              0              
+-43       96     32616     0          +/- 0                   0              0              
+-44       97     32616     0          +/- 0                   0              0              
+-45       98     32616     0          +/- 0                   0              0              
+-1        116    32616     0          +/- 0                   0              0              
+-2        117    32616     0          +/- 0                   0              0              
+-3        118    32616     0          +/- 0                   0              0              
+-4        119    32616     0          +/- 0                   0              0              
+-6        120    32616     0          +/- 0                   0              0              
+-8        214    32616     0          +/- 0                   0              0              
+-9        215    32616     0          +/- 0                   0              0              
+-10       216    32616     0          +/- 0                   0              0              
+-11       217    32616     0          +/- 0                   0              0              
+-12       218    32616     0          +/- 0                   0              0              
+-13       228    32616     0          +/- 0                   0              0              
+-14       229    32616     0          +/- 0                   0              0              
+-15       230    32616     0          +/- 0                   0              0              
+-16       231    32616     0          +/- 0                   0              0              
+-17       238    32616     0          +/- 0                   0              0              
+-18       239    32616     0          +/- 0                   0              0              
+-19       240    32616     0          +/- 0                   0              0              
+-20       270    32616     0          +/- 0                   0              0              
+-21       271    32616     0          +/- 0                   0              0              
+-22       272    32616     0          +/- 0                   0              0              
+-23       273    32616     0          +/- 0                   0              0              
+-24       298    32616     0          +/- 0                   0              0              
+-25       308    32616     0          +/- 0                   0              0              
+-26       309    32616     0          +/- 0                   0              0              
+-27       310    32616     0          +/- 0                   0              0              
+-28       314    32616     0          +/- 0                   0              0              
+-29       315    32616     0          +/- 0                   0              0              
+-30       316    32616     0          +/- 0                   0              0              
+-31       317    32616     0          +/- 0                   0              0              
+-32       329    32616     0          +/- 0                   0              0              
+
+Total rate  = 0 +/- 0 (kHz)
+
+Total rate (with overlaps) = 0 (kHz)
+
+Total pure rate  = 0 (kHz)
+
+Total prop rate  = 0 (kHz)
