@@ -11,7 +11,7 @@ cmsrel CMSSW_9_2_15
 cd CMSSW_9_2_15/src
 cmsenv
 git clone https://github.com/alokekumardas/l1trigger.git  
-cd l1trigger/L1Menu
+cd l1trigger/L1Menu/macros/
 make -j 8
 </code></pre>
 
